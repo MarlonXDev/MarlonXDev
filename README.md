@@ -1,17 +1,56 @@
-## Hi, I'm Marlon 👋
-- 📫 How to reach me: endercrystal (Discord)
+<div align="center">
+<pre>
+      /\                 /\
+     /  \               /  \
+    / /\ \             / /\ \
+   / /  \ \           / /  \ \
+  / /    \ \_.:::::._/ /    \ \
+ /_/      .://///////::.      \_\
+        .//////::..::://///.
+       ://///:.      .://///:
+      ://///:    ..    ://///:
+      ://///:   ::::   ://///:
+      ://///:    ..    ://///:
+       ://///:.      .://///:
+        .//////::..::://///.
+          .:///////////::.
+             .:::///::.
+</pre>
+</div>
 
-<!--
-**MarlonXDev/MarlonXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+>_ MarlonXDev Terminal (v1.0.0)
+~/MarlonXDev
 
-Here are some ideas to get you started:
+Welcome! Try one of these commands:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/about    - Hi, I'm Marlon 👋
+/contact  - Discord: endercrystal
+/vibe     - Furry
+</pre>
+
+---
+
+### `~/about` – Info
+
+<pre>
+- 🐾 Name     : Marlon
+- 💬 Discord  : endercrystal
+- 🎮 Interests: Gaming, Furry Community, Hanging out
+</pre>
+
+---
+
+### `~/status` – GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MarlonXDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="MarlonXDev Stats" />
+
+</div>
+
+---
+
+<pre>
+MarlonXDev · ~/profile
+</pre>
