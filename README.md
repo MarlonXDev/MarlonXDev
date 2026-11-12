@@ -1,27 +1,32 @@
-<pre>
->_ MarlonXDev Codex (v1.0.0)
-~/MarlonXDev
+```text
+                    /\_/\
+                   /     \
+                  /  /\_/\ \
+                 /  ( o.o ) \
+                /____> ^ <____\
 
-To get started, describe a task or try one of these commands:
+             __  __    _    ____  _     ___  _   _ 
+            |  \/  |  / \  |  _ \| |   / _ \| \ | |
+            | |\/| | / _ \ | |_) | |  | | | |  \| |
+            | |  | |/ ___ \|  _ <| |__| |_| | |\  |
+            |_|  |_/_/   \_\_| \_\_____\___/|_| \_|
 
-/about    - Hi, I'm Marlon (Any/All) 👋
-/role     - Owner and Lead Developer @LOOTSUCHT & @Furlumin
-/contact  - Discord: endercrystal
-/vibe     - Furry
+                    DEVELOPER // PROJECT LEAD
+                         GERMANY
 
-                        .:::///::.
-                     .:///////////::.
-                   .//////::..::://///.
-                  ://///:.      .://///:
-                 ://///:    ..    ://///:
-                 ://///:   ::::   ://///:
-                 ://///:    ..    ://///:
-                  ://///:.      .://///:
-                   .//////::..::://///.
-                     .:///////////::.
-                        .:::///::.
+┌──(MarlonXDev㉿github)-[~]
+└─$ whoami
+Marlon | Developer | Project Lead
 
-> Ask MarlonXDev to do anything
+┌──(MarlonXDev㉿github)-[~]
+└─$ projects
+@FURLUMIN    :: Project Lead
+@LOOTSUCHT   :: Project Lead
 
-MarlonXDev · ~/profile
-</pre>
+┌──(MarlonXDev㉿github)-[~]
+└─$ discord
+Endercrystl
+
+┌──(MarlonXDev㉿github)-[~]
+└─$ _
+```
